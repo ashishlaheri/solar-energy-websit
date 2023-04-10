@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Asap&family=Roboto:ital,wght@0,500;0,900;1,500&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Metal+Mania');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
+p{
+    font-family: Raleway;
+}
+ header {
+    background-color: orange;
+    color: black;
+    padding: 10px;
+    
+  }
+  
+  h1 {
+    margin: 0;
+    padding-left: 45%;
+    
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+  }
+  
+  nav ul li a {
+    color: black;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    padding-right: 70px;
+  }
+  
+  nav ul li a:hover {
+    background-color: yellowgreen;
+    color: yellow;
+  }
+  .img1{
+    width: 45%;
+  }
+  h2{
+    padding-left: 45%;
+    font-size: xx-large;
+    font-family: Metal Mania;
+  }
+  he2{
+    padding-left: 10px;
+  }
+.img3{
+    width: 30%;
+    padding-left: 65%;
+}
+.img4{
+    width: 30%;
+    
+}
+.img5{
+    width: 30%;
+}
+.first{
+    display: inline-block;
+}
+.img6{
+    width: 30%;
+}
+.img7{
+    width: 30%;
+    padding-left: 65%;
+}
+img{
+    width: 30%;
+}
